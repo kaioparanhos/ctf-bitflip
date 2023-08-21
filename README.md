@@ -14,7 +14,7 @@
 * <p> REx6UHdUZE9hNFJkakZodXFaN1RTSzFOTXk4Z1BOa094U01ReHRoZkd3Q1l2ZGxZeThrTjZidFVJLzhMeVliVExqaVp
       Vd0ZGckI1RXRWR0VDeUI2M1l2NHM4M056MDAzWm1sUGRLL2EzYmZncytLWm9ZN2hXQnFZaGJFOVJyaVI=</p>
 
- #### 3 - Vamos decodificá-lo usando o [Cyberchef](https://cyberchef.org/). O resultado também parece ser codificado em base64:
+ #### 3 - Vamos decodificá-lo usando o [Cyberchef](https://cyberchef.org/). <br>O resultado também parece ser codificado em base64:
  * <p>DLzPwTdOa4RdjFhuqZ7TSK1NMy8gPNkOxSMQxthfGwCYvdlYy8kN6btUI/8LyYbTLjiZUwFFrB5EtVGECyB63Yv4s
       83Nz003ZmlPdK/a3bfgs+KZoY7hWBqYhbE9RriR</p>
 
